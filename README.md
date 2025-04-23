@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/94e37b4c-d1e1-48fa-aa36-cab32dd7808b)
+
 # Netflix-SQL-Analysis
 The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
